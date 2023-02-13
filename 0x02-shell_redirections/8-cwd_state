@@ -1,0 +1,3 @@
+#!/bib/bash
+ls -la > ls_cwd_content
+
